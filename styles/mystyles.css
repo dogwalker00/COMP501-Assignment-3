@@ -19,9 +19,11 @@
     background: white;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em white }
   ul.navbar a {
     text-decoration: none }
+  p.main {
+  text-align: justify;}
   a:link {
     color: blue }
   a:visited {
